@@ -3,7 +3,7 @@
 // setTimeout, setInterval, promises, fetch etc is asynchronous
 
 // jo bhi main stack i.e. execution me hota hai wo output karta hai aur jo side stack me hota hai wo behind the scenes processing kar rha hota hai taaki jab uski
-// processing complete ho use main stack me laa kar chalaya ja sake
+// processing complete ho use main stack me laa kar chalaya ja sake 
 
 // jab main stack khaali hota hai tab check karte hai ki side stack ki processing ho gayi hogi toh fir use
 // main stack me laayenge
