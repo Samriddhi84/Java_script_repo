@@ -13,7 +13,7 @@
 
 console.log("Hey1")
 console.log("Hey2")
-setTimeout(function () {
+setTimeout(function () {   
     console.log("Hey3")
 }, 0)
 console.log("Hey4") // output would be 1 2 4 3 cause 3 is async and waiting in side stack and after main stack is empty side stack is executed
